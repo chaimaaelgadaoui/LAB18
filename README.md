@@ -20,9 +20,6 @@ Mon objectif était de :
 ## Structure du projet
 LAB18_FireStorm/
 ├── README.md
-├── frida_firestorm.js
-├── get_flag.py
-├── FireStorm.apk
 └── images/
 
 ### Étape 1 — Préparation de l’environnement
