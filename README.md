@@ -2,7 +2,7 @@
 ## Auteur
 
 Chaimaa ELGADAOUI
-Génie Cyberdéfense & Systèmes de Télécommunications Embarqués
+Étudiante en 2ème année — Génie Cyberdéfense & Systèmes de Télécommunications Embarqués
 
 ## Objectif du challenge
 
